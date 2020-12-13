@@ -12,4 +12,4 @@ First year Computer Science undergrad student at Saint Mary's University, Halifa
 
 ### Git Status
 ![image](https://github-readme-stats.vercel.app/api?username=cybarspace&hide_border=true)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=cybarspace&hide_border=true&&langs_count=8)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=cybarspace&layout=compact&hide_border=true&&langs_count=8)
