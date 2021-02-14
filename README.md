@@ -8,7 +8,7 @@ First year Computer Science undergrad student at Saint Mary's University, Halifa
 - 🔭 I’m currently working on a [personal website](cybarspace.github.io).
 - 🌱 I’m currently learning Python (self-learning) and Java (course-requirement).
 - 📫 How to reach me: [Discussions](https://github.com/cybarspace/cybarspace/discussions)
-- ⚡ Fun fact: I love Linux! Especially Manjaro XFCE.
+- ⚡ Fun fact: I love Linux! Especially Manjaro XFCE with i3wm.
 
 ### Git Status
 ![image](https://github-readme-stats.vercel.app/api?username=cybarspace&hide_border=true)
