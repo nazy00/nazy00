@@ -5,8 +5,8 @@
 
 First year Computer Science undergrad student at Saint Mary's University, Halifax.
 
-- 🔭 I’m currently working on a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
-- 🌱 I’m currently learning Python (self-learning) and Java (course-requirement).
+- 🔭 I’m working on maintaining a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
+- 🌱 I’m self-learning Python and learning Java as a course-requirement.
 - 📫 How to reach me: [mail](mailto:cybardev@pm.me "cybardev@pm.me")
 - ⚡ Fun fact: I love Linux! Especially Manjaro XFCE with i3wm.
 
