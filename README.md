@@ -8,7 +8,7 @@ Computer Science undergrad student at [Saint Mary's University](https://www.smu.
 - 🔭 Working on maintaining a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
 - 🌱 Self-learning [Python](https://learnxinyminutes.com/docs/python/) and [Clojure](https://learnxinyminutes.com/docs/clojure/), and learning [Java](https://learnxinyminutes.com/docs/java/) as a course-requirement.
 - 📫 How to reach me: [mail](mailto:cybardev@pm.me "cybardev@pm.me")
-- ⚡ Fun fact: I love Linux! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.
+- ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/)! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.
 
 ### Git Status
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark" />
