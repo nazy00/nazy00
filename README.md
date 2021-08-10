@@ -8,7 +8,7 @@ Computer Science undergrad student at Saint Mary's University, Halifax.
 - 🔭 Working on maintaining a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
 - 🌱 Self-learning Python and Clojure, and learning Java as a course-requirement.
 - 📫 How to reach me: [mail](mailto:cybardev@pm.me "cybardev@pm.me")
-- ⚡ Fun fact: I love Linux! Especially Pop!\_OS, as well as Manjaro XFCE with i3wm.
+- ⚡ Fun fact: I love Linux! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.
 
 ### Git Status
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark" />
