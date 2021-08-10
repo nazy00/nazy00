@@ -11,5 +11,5 @@ First year Computer Science undergrad student at Saint Mary's University, Halifa
 - ⚡ Fun fact: I love Linux! Especially Pop!\_OS, as well as Manjaro XFCE with i3wm.
 
 ### Git Status
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybarspace&hide_border=true&theme=vue-dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybarspace&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
