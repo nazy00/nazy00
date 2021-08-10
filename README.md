@@ -3,7 +3,7 @@
 -->
 # Welcome to the Cy|Space!
 
-Computer Science undergrad student at Saint Mary's University, Halifax.
+Computer Science undergrad student at [Saint Mary's University](https://www.smu.ca/).
 
 - 🔭 Working on maintaining a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
 - 🌱 Self-learning [Python](https://learnxinyminutes.com/docs/python/) and [Clojure](https://learnxinyminutes.com/docs/clojure/), and learning [Java](https://learnxinyminutes.com/docs/java/) as a course-requirement.
