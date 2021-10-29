@@ -12,7 +12,7 @@
 - 🔭 Working on maintaining a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
 - 🌱 Self-learning [Python](https://learnxinyminutes.com/docs/python/) and [Clojure](https://learnxinyminutes.com/docs/clojure/), and learning [Java](https://learnxinyminutes.com/docs/java/) as a course-requirement.
 - 📫 How to reach me: [mail](mailto:cybardev@pm.me "cybardev@pm.me")
-- ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/)! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.
+- ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/)! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm. Ironically, I now use a MacBook Air M1 running macOS Monterey.
 
 <hr />
 
