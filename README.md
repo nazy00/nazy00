@@ -1,8 +1,4 @@
-<!--
-**cybarspace/cybarspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-# Welcome to the Cy | Space!
+# Hi, I'm Sheikh!
 
 ## Undergrad student at [Saint Mary's University](https://www.smu.ca/).
 
@@ -17,5 +13,7 @@
 ---
 
 ### Git Status
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" />
+
+![stats](https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=vue-dark)
