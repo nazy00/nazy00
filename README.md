@@ -14,7 +14,7 @@
 - 📫 How to reach me: [mail](mailto:cybardev@pm.me "cybardev@pm.me")
 - ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/)! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1](https://www.apple.com/ca/macbook-air/) running [macOS Monterey](https://www.apple.com/ca/macos/monterey/).
 
-<hr />
+---
 
 ### Git Status
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark" />
