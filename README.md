@@ -14,5 +14,8 @@
 
 ### Git Status
 
-![stats](https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=vue-dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cybardev&hide_border=true&theme=vue-dark" alt="stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=vue-dark" alt="langs" />
+</div>
