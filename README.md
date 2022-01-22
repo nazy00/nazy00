@@ -6,8 +6,8 @@
 - 💻 [Computing Science](https://www.smu.ca/academics/computing-science-program.html) major
 - 🧠 [Psychology](https://www.smu.ca/academics/psychology-program.html) minor
 - 🔭 Working on maintaining a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
-- 🌱 Self-learning [Python](https://learnxinyminutes.com/docs/python/) and [Clojure](https://learnxinyminutes.com/docs/clojure/), and learning [Java](https://learnxinyminutes.com/docs/java/) as a course-requirement.
-- 📫 How to reach me: [mail](mailto:cybardev@pm.me "cybardev@pm.me")
+- 🌱 Self-learning [Python](https://learnxinyminutes.com/docs/python/) and [Nim](https://learnxinyminutes.com/docs/nim/), and training under [The Odin Project](https://www.theodinproject.com/).
+- 📫 How to reach me: [Email](mailto:sheikh@cybar.dev "sheikh@cybar.dev") and [Telegram](https://t.me/cybardev)
 - ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/)! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1](https://www.apple.com/ca/macbook-air/) running [macOS Monterey](https://www.apple.com/ca/macos/monterey/).
 
 ---
