@@ -1,8 +1,8 @@
 # Hi, I'm Sheikh!
 
-## Undergrad student at [Saint Mary's University](https://www.smu.ca/).
+### Undergrad student at [Saint Mary's University](https://www.smu.ca/).
 
-### About Me
+## About Me
 - 💻 [Computing Science](https://www.smu.ca/academics/computing-science-program.html) major
 - 🧠 [Psychology](https://www.smu.ca/academics/psychology-program.html) minor
 - 🔭 Working on maintaining a [personal blog](https://j.mp/cybarblog "cybarspace.github.io").
