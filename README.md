@@ -16,5 +16,5 @@
   <h2>Git Status</h2>
   <img src="https://gitstatus.cybar.dev/api?username=cybardev&hide_border=true&theme=dark&show_icons=true&count_private=true&icon_color=ff86dd&bg_color=000" alt="stats" />
   <br />
-  <img src="https://gitstatus.cybar.dev/api/top-langs/?username=cybardev&layout=compact&hide_border=true&hide=html,css&langs_count=8&theme=dark&bg_color=000" alt="langs" />
+  <img src="https://gitstatus.cybar.dev/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=000" alt="langs" />
 </div>
