@@ -36,7 +36,7 @@
                 {{ site.description | default: site.github.project_tagline }}
             </h2>
             {% if site.show_links %} {% for link in site.links %} {% if link[1]
-            != "null" %}
+            != null %}
             <a href="{{ link[1] }}" class="btn">{{ link[0] | capitalize }}</a>
             {% endif %} {% endfor %} {% endif %}
         </header>
