@@ -1,12 +1,1 @@
-# Setup
 theme: jekyll-theme-cayman
-
-# Config
-title: Sheikh Saad Abdullah
-tagline: All about me!
-baseurl: "https://me.cybar.dev/"
-
-# Info
-author:
-    name: Sheikh Saad Abdullah
-    url: http://cybar.dev/
