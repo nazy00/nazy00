@@ -52,7 +52,7 @@
 
 <details>
 <summary style="font-weight:bold"><h3>GitHub Stats</h3></summary>
-<br />
+
 <div style="text-align:center">
 <img src="https://gitstatus.cybar.dev/api?username=cybardev&hide_border=true&theme=dark&show_icons=true&count_private=true&icon_color=ff86dd&bg_color=000" alt="stats" />
 <br />
