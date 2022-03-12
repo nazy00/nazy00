@@ -7,7 +7,7 @@
 - 🧠 [Psychology](https://www.smu.ca/academics/psychology-program.html) minor
 - 🔭 Working on maintaining a [personal blog](https://cybar.dev "cybar.dev").
 - 🌱 Self-learning [Python](https://learnxinyminutes.com/docs/python/) and [Nim](https://learnxinyminutes.com/docs/nim/), and training under [The Odin Project](https://www.theodinproject.com/).
-- 📫 How to reach me: [Email ![Email](https://github.com/cybardev/cybardev/raw/main/email.png)](mailto:sheikh@cybar.dev "sheikh@cybar.dev"), [Linked ![linkedin icon](https://github.com/cybardev/cybardev/raw/main/linkedin.png)](https://linkedin.com/in/cybardev), [Discord ![Discord](https://github.com/cybardev/cybardev/raw/main/discord.png)](https://discord.com/users/316478839146676224), and [Telegram ![Telegram](https://github.com/cybardev/cybardev/raw/main/telegram.png)](https://t.me/cybardev)
+- 📫 How to reach me:  [![](https://img.shields.io/badge/Email-grey?style=flat&logo=maildotru)](mailto:sheikh@cybar.dev "sheikh@cybar.dev") [![](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://linkedin.com/in/cybardev) [![](https://img.shields.io/badge/Discord-grey?style=flat&logo=discord&logoColor=white)](https://discord.com/users/316478839146676224)
 - ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/)! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1](https://www.apple.com/ca/macbook-air/) running [macOS Monterey](https://www.apple.com/ca/macos/monterey/).
 
 ---
