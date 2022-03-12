@@ -12,7 +12,7 @@ Undergrad student at [Saint Mary's University](https://www.smu.ca/).
 
 ---
 
-### Technologies
+### Technologies I Use
 
 #### Programming Languages
 
