@@ -1,8 +1,8 @@
-# Hi, I'm Sheikh!
+## Hi, I'm Sheikh!
 
-#### Undergrad student at [Saint Mary's University](https://www.smu.ca/).
+Undergrad student at [Saint Mary's University](https://www.smu.ca/).
 
-## About Me
+### About Me
 
 -   💻 [Computing Science](https://www.smu.ca/academics/computing-science-program.html) major
 -   🧠 [Psychology](https://www.smu.ca/academics/psychology-program.html) minor
@@ -12,15 +12,15 @@
 
 ---
 
-## Technologies
+### Technologies
 
-### Programming Languages
+#### Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=java&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-grey?style=flat-square&logo=gnubash&logoColor=white)
 
-### Web Technologies
+#### Web Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-grey?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-grey?style=flat-square&logo=CSS3&logoColor=cornflowerblue)
@@ -31,7 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat-square&logo=Bootstrap)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind-grey?style=flat-square&logo=Tailwindcss)
 
-### FAST Stack
+#### FAST Stack
 
 (under development)
 
@@ -40,7 +40,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-grey?style=flat-square&logo=supabase)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=flat-square&logo=tailwindcss)
 
-### Miscellaneous
+#### Miscellaneous
 
 ![Hugo](https://img.shields.io/badge/-Hugo-grey?style=flat-square&logo=hugo&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-grey?style=flat-square&logo=netlify&logoColor=white)
