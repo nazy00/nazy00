@@ -5,6 +5,6 @@ title: Sheikh Saad Abdullah
 description: All about me!
 show_links: true
 links:
-    projects: nil
+    projects: null
     resume: https://me.cybar.dev/assets/resume.pdf
     blog: https://cybar.dev/
