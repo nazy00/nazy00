@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 # Config
 title: Sheikh Saad Abdullah
 description: All about me!
-show_links: false
+show_links: true
 links:
     projects: nil
     resume: https://me.cybar.dev/assets/resume.pdf
