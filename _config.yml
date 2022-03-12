@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+# Config
+title: Sheikh Saad Abdullah
+description: All about me!
+show_downloads: "false"
