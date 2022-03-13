@@ -1,8 +1,8 @@
-## Hi, I'm Sheikh!
+### Hi, I'm Sheikh!
 
 Undergrad student at [Saint Mary's University][smu].
 
-### About Me
+## About Me
 
 -   💻 [Computing Science][smu_cs] major
 -   🧠 [Psychology][smu_psyc] minor
@@ -12,15 +12,15 @@ Undergrad student at [Saint Mary's University][smu].
 
 ---
 
-### Technologies I Use
+## Technologies I Use
 
-#### Programming Languages
+### Programming Languages
 
 [![Python][img_python]][python]
 [![Java][img_java]][java]
 [![Shell][img_bash]][zsh]
 
-#### Web Technologies
+### Web Technologies
 
 [![HTML][img_html]][html]
 [![CSS][img_css]][css]
@@ -31,7 +31,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![Bootstrap][img_bootstrap]][bootstrap]
 [![Tailwind CSS][img_tailwind]][tailwind]
 
-#### FAST Stack
+### FAST Stack
 
 (under development)
 
@@ -40,7 +40,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![Supabase][img_supabase]][supabase]
 [![Tailwind CSS][img_tailwind]][tailwind]
 
-#### Miscellaneous
+### Miscellaneous
 
 [![Hugo][img_hugo]][hugo]
 [![Netlify][img_netlify]][netlify]
@@ -50,7 +50,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <details>
 <summary><b>Click to show ✨</b></summary>
