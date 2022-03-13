@@ -34,7 +34,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 ### FAST Stack
 
-(under development)
+_(under development)_
 
 [![Forestry CMS][img_forestry]][forestry]
 [![Alpine.js][img_alpinejs]][alpinejs]
@@ -44,6 +44,8 @@ Undergrad student at [Saint Mary's University][smu].
 ### Miscellaneous
 
 [![Hugo][img_hugo]][hugo]
+[![Jekyll][img_jekyll]][jekyll]
+[![GitHub][img_github]][github]
 [![Netlify][img_netlify]][netlify]
 [![Vercel][img_vercel]][vercel]
 [![VS Code][img_vs_code]][vs_code]
@@ -97,6 +99,8 @@ Undergrad student at [Saint Mary's University][smu].
 [alpinejs]: https://alpinejs.dev "Alpine.js"
 [supabase]: https://supabase.com "Supabase"
 [hugo]: https://gohugo.io "Hugo - static site generator"
+[jekyll]: https://gohugo.io "Jekyll - static site generator"
+[github]: https://github.com "GitHub"
 [netlify]: https://www.netlify.com "Netlify"
 [vercel]: https://vercel.com "Vercel"
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
@@ -124,6 +128,8 @@ Undergrad student at [Saint Mary's University][smu].
 [img_alpinejs]: https://img.shields.io/badge/-Alpine.js-grey?style=for-the-badge&logo=alpine.js
 [img_supabase]: https://img.shields.io/badge/-Supabase-grey?style=for-the-badge&logo=supabase
 [img_hugo]: https://img.shields.io/badge/-Hugo-grey?style=for-the-badge&logo=hugo&logoColor=white
+[img_jekyll]: https://img.shields.io/badge/-Jekyll-grey?style=for-the-badge&logo=jekyll&logoColor=white
+[img_github]: https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github&logoColor=white
 [img_netlify]: https://img.shields.io/badge/-Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white
 [img_vercel]: https://img.shields.io/badge/-Vercel-grey?style=for-the-badge&logo=vercel
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-grey?style=for-the-badge&logo=visualstudiocode
