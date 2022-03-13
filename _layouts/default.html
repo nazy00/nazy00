@@ -56,8 +56,8 @@
                     <img
                         class="center-align"
                         src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ project }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
-                        alt="{{ description[forloop.index0] }}"
-                        title="{{ description[forloop.index0] }}"
+                        alt="{{ site.project_descriptions[project] }}"
+                        title="{{ site.project_descriptions[project] }}"
                     />
                 </a>
                 {% endfor %} {% endif %}
