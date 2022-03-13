@@ -9,3 +9,10 @@ links:
     projects: null
     resume: https://me.cybar.dev/assets/resume.pdf
     blog: https://cybar.dev
+
+show_projects: true
+projects:
+    - ytpy
+    - search
+    - xpense
+    - cutefetch

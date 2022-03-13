@@ -44,6 +44,22 @@
         <main id="content" class="main-content" role="main">
             {{ content }}
 
+            <br />
+
+            <div class="center-align">
+                {% if site.show_projects %} {% for project in site.projects %}
+                <a
+                    href="https://github.com/{{ site.github.owner_name }}/{{ project }}"
+                >
+                    <img
+                        class="center-align"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ project }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
+                        alt="Github project: {{ site.github.owner_name }}/{{ project }}"
+                    />
+                </a>
+                {% endfor %} {% endif %}
+            </div>
+
             <footer class="site-footer">
                 {% if site.github.is_project_page %}
                 <span class="site-footer-owner"
