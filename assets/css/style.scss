@@ -10,10 +10,12 @@ details > summary {
 }
 
 details > summary:hover {
+    cursor: pointer;
     color: #888;
 }
 
 details > summary:active {
+    cursor: pointer;
     color: #555;
 }
 
