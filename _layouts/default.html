@@ -49,18 +49,19 @@
             <div id="projects" class="center-align">
                 <h2>Top Projects</h2>
                 <br />
-                {% if site.show_projects %} {% for project in site.projects %}
+                {% liquid if site.show_projects for project in site.projects %}
+                assign name = project[0] assign description = project[1] %}
                 <a
-                    href="https://github.com/{{ site.github.owner_name }}/{{ project }}"
+                    href="https://github.com/{{ site.github.owner_name }}/{{ name }}"
                 >
                     <img
                         class="center-align"
-                        src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ project }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
-                        alt="{{ site.project_descriptions[project] }}"
-                        title="{{ site.project_descriptions[project] }}"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ name }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
+                        alt="{{ description }}"
+                        title="{{ description }}"
                     />
                 </a>
-                {% endfor %} {% endif %}
+                {% liquid endfor endif %}
             </div>
 
             <footer class="site-footer">
