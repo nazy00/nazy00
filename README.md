@@ -1,14 +1,14 @@
 ## Hi, I'm Sheikh!
 
-Undergrad student at [Saint Mary's University](https://www.smu.ca/ "SMU website").
+Undergrad student at [Saint Mary's University][smu].
 
 ### About Me
 
--   💻 [Computing Science](https://www.smu.ca/academics/computing-science-program.html "CS at SMU") major
--   🧠 [Psychology](https://www.smu.ca/academics/psychology-program.html "Psychology at SMU") minor
--   🔭 Working on writing [a blog](https://cybar.dev "cybar.dev").
--   📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=mail.ru)](mailto:sheikh@cybar.dev "sheikh@cybar.dev") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin)](https://linkedin.com/in/cybardev "Sheikh's LinkedIn") [![Discord](https://img.shields.io/badge/-Discord-grey?style=flat&logo=discord&logoColor=white)](https://discord.com/users/316478839146676224 "cybardev#8757") [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=minutemailer&logoColor=white)](https://t.me/cybardev "@cybardev")
--   ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia")! Especially [Pop!\_OS](https://pop.system76.com/ "Pop!_OS"), as well as [Manjaro](https://manjaro.org/ "Manjaro Linux") XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1](https://www.apple.com/ca/macbook-air/ "Macbook Air on apple.com") running [macOS Monterey](https://www.apple.com/ca/macos/monterey/ "MacOS Monterey on apple.com").
+-   💻 [Computing Science][smu_cs] major
+-   🧠 [Psychology][smu_psyc] minor
+-   🔭 Working on writing [a blog][cy_blog].
+-   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
+-   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Pop!\_OS][pop_os], as well as [Manjaro][manjaro] XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1][macbook_air] running [macOS][macos].
 
 ---
 
@@ -16,37 +16,37 @@ Undergrad student at [Saint Mary's University](https://www.smu.ca/ "SMU website"
 
 #### Programming Languages
 
-[![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org "Python")
-[![Java](https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com "Java")
-[![Shell](https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.zsh.org "Zsh")
+[![Python][img_python]][python]
+[![Java][img_java]][java]
+[![Shell][img_bash]][zsh]
 
 #### Web Technologies
 
-[![HTML](https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5")
-[![CSS](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&logoColor=cornflowerblue)](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS3")
-[![JavaScript](https://img.shields.io/badge/-JS-grey?style=for-the-badge&logo=javascript)](https://www.javascript.com "Javascript (ES6 standard)")
-[![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/ "MongoDB")
-[![Express.js](https://img.shields.io/badge/-Expressjs-grey?style=for-the-badge&logo=express)](https://expressjs.com/ "Express.js")
-[![Node.js](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=node.js)](https://nodejs.org "Node.js")
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com "Bootstrap 5")
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com "Tailwind CSS")
+[![HTML][img_html]][html]
+[![CSS][img_css]][css]
+[![JavaScript][img_js]][js]
+[![MongoDB][img_mongodb]][mongodb]
+[![Express.js][img_express]][express]
+[![Node.js][img_nodejs]][nodejs]
+[![Bootstrap][img_bootstrap]][bootstrap]
+[![Tailwind CSS][img_tailwind]][tailwind]
 
 #### FAST Stack
 
 (under development)
 
-[![Forestry CMS](https://img.shields.io/badge/-Forestry%20CMS-grey?style=for-the-badge&logo=forestry)](https://forestry.io "Forestry.io")
-[![Alpine.js](https://img.shields.io/badge/-Alpine.js-grey?style=for-the-badge&logo=alpine.js)](https://alpinejs.dev "Alpine.js")
-[![Supabase](https://img.shields.io/badge/-Supabase-grey?style=for-the-badge&logo=supabase)](https://supabase.com "Supabase")
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com "Tailwind CSS")
+[![Forestry CMS][img_forestry]][forestry]
+[![Alpine.js][img_alpinejs]][alpinejs]
+[![Supabase][img_supabase]][supabase]
+[![Tailwind CSS][img_tailwind]][tailwind]
 
 #### Miscellaneous
 
-[![Hugo](https://img.shields.io/badge/-Hugo-grey?style=for-the-badge&logo=hugo&logoColor=white)](https://gohugo.io "Hugo - Static Site Generator")
-[![Netlify](https://img.shields.io/badge/-Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com "Netlify")
-[![Vercel](https://img.shields.io/badge/-Vercel-grey?style=for-the-badge&logo=vercel)](https://vercel.com "Vercel")
-[![VS Code](https://img.shields.io/badge/-VS%20Code-grey?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/ "Visual Studio Code")
-[![Vim](https://img.shields.io/badge/-Vim-grey?style=for-the-badge&logo=vim)](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim "Vim Extension for VS Code")
+[![Hugo][img_hugo]][hugo]
+[![Netlify][img_netlify]][netlify]
+[![Vercel][img_vercel]][vercel]
+[![VS Code][img_vs_code]][vs_code]
+[![Vim][img_vim]][vim]
 
 ---
 
@@ -65,3 +65,64 @@ Undergrad student at [Saint Mary's University](https://www.smu.ca/ "SMU website"
 </div>
 
 </details>
+
+<!-- Links -->
+
+[smu]: https://www.smu.ca/ "SMU website"
+[smu_cs]: https://www.smu.ca/academics/computing-science-program.html "CS at SMU"
+[smu_psyc]: https://www.smu.ca/academics/psychology-program.html "Psychology at SMU"
+[cy_blog]: https://cybar.dev "cybar.dev"
+[email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
+[linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
+[discord]: https://discord.com/users/316478839146676224 "cybardev#8757"
+[telegram]: https://t.me/cybardev "@cybardev"
+[wiki_linux]: https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia"
+[pop_os]: https://pop.system76.com/ "Pop!_OS"
+[manjaro]: https://manjaro.org/ "Manjaro Linux"
+[macbook_air]: https://www.apple.com/ca/macbook-air/ "Macbook Air on apple.com"
+[macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
+[python]: https://www.python.org "Python"
+[java]: https://www.java.com "Java"
+[zsh]: https://www.zsh.org "Zsh"
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5"
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS3"
+[js]: https://www.javascript.com "Javascript (ES6 standard)"
+[mongodb]: https://www.mongodb.com/ "MongoDB"
+[express]: https://expressjs.com/ "Express.js"
+[nodejs]: https://nodejs.org "Node.js"
+[bootstrap]: https://getbootstrap.com "Bootstrap 5"
+[tailwind]: https://tailwindcss.com "Tailwind CSS"
+[forestry]: https://forestry.io "Forestry CMS"
+[alpinejs]: https://alpinejs.dev "Alpine.js"
+[supabase]: https://supabase.com "Supabase"
+[hugo]: https://gohugo.io "Hugo - static site generator"
+[netlify]: https://www.netlify.com "Netlify"
+[vercel]: https://vercel.com "Vercel"
+[vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
+[vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
+
+<!-- Shields -->
+
+[img_email]: https://img.shields.io/badge/-Email-grey?style=flat&logo=mail.ru
+[img_linkedin]: https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin
+[img_discord]: https://img.shields.io/badge/-Discord-grey?style=flat&logo=discord&logoColor=white
+[img_telegram]: https://img.shields.io/badge/-Telegram-grey?style=flat&logo=minutemailer&logoColor=white
+[img_python]: https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white
+[img_java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=white
+[img_bash]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnubash&logoColor=white
+[img_html]: https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5
+[img_css]: https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&logoColor=cornflowerblue
+[img_js]: https://img.shields.io/badge/-JS-grey?style=for-the-badge&logo=javascript
+[img_mongodb]: https://img.shields.io/badge/-MongoDB-grey?style=for-the-badge&logo=mongodb
+[img_express]: https://img.shields.io/badge/-Expressjs-grey?style=for-the-badge&logo=express
+[img_nodejs]: https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=node.js
+[img_bootstrap]: https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap
+[img_tailwind]: https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge&logo=tailwindcss
+[img_forestry]: https://img.shields.io/badge/-Forestry%20CMS-grey?style=for-the-badge&logo=forestry
+[img_alpinejs]: https://img.shields.io/badge/-Alpine.js-grey?style=for-the-badge&logo=alpine.js
+[img_supabase]: https://img.shields.io/badge/-supabase-grey?style=for-the-badge&logo=supabase
+[img_hugo]: https://img.shields.io/badge/-hugo-grey?style=for-the-badge&logo=hugo&logoColor=white
+[img_netlify]: https://img.shields.io/badge/-netlify-grey?style=for-the-badge&logo=netlify&logoColor=white
+[img_vercel]: https://img.shields.io/badge/-vercel-grey?style=for-the-badge&logo=vercel
+[img_vs_code]: https://img.shields.io/badge/-vs%20code-grey?style=for-the-badge&logo=visualstudiocode
+[img_vim]: https://img.shields.io/badge/-vim-grey?style=for-the-badge&logo=vim
