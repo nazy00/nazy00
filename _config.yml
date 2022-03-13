@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 
 # Site
 title: Sheikh Saad Abdullah
