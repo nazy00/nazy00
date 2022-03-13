@@ -51,13 +51,13 @@
                 <br />
                 {% if site.show_projects %} {% for project in site.projects %}
                 <a
-                    href="https://github.com/{{ site.github.owner_name }}/{{ project.name }}"
+                    href="https://github.com/{{ site.github.owner_name }}/{{ project }}"
                 >
                     <img
                         class="center-align"
-                        src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ project.name }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
-                        alt="{{ project.desc }}"
-                        title="{{ project.desc }}"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ project }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
+                        alt="{{ description[forloop.index0] }}"
+                        title="{{ description[forloop.index0] }}"
                     />
                 </a>
                 {% endfor %} {% endif %}

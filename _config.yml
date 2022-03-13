@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-# Config
+# Site
 title: Sheikh Saad Abdullah
 description: All about me!
 show_links: true
@@ -10,17 +10,15 @@ links:
     resume: https://me.cybar.dev/assets/resume.pdf
     blog: https://cybar.dev
 
+# Projects
 show_projects: true
 projects:
-    ytpy:
-        name: ytpy
-        desc: CLI YouTube Media Player
-    search:
-        name: search
-        desc: Custom Search Engine using the Usearch API
-    xpense:
-        name: xpense
-        desc: Monthly Expense Calculator for Budgeting
-    cutefetch:
-        name: cutefetch
-        desc: Cute little fetch script with kitties and bunnies
+    - ytpy
+    - search
+    - xpense
+    - cutefetch
+description:
+    - CLI YouTube Media Player
+    - Custom Search Engine using the Usearch API
+    - Monthly Expense Calculator for Budgeting
+    - Cute little fetch script with kitties and bunnies
