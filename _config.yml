@@ -12,12 +12,15 @@ links:
 
 show_projects: true
 projects:
-    - ytpy
-    - search
-    - xpense
-    - cutefetch
-description:
-    ytpy: CLI YouTube Media Player
-    search: Custom Search Engine using the Usearch API
-    xpense: Monthly Expense Calculator for Budgeting
-    cutefetch: Cute little fetch script with kitties and bunnies
+    ytpy:
+        name: ytpy
+        desc: CLI YouTube Media Player
+    search:
+        name: search
+        desc: Custom Search Engine using the Usearch API
+    xpense:
+        name: xpense
+        desc: Monthly Expense Calculator for Budgeting
+    cutefetch:
+        name: cutefetch
+        desc: Cute little fetch script with kitties and bunnies
