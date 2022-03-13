@@ -10,7 +10,11 @@ details > summary {
 }
 
 details > summary:hover {
-    text-decoration: underline;
+    color: #888;
+}
+
+details > summary:active {
+    color: #555;
 }
 
 .center-align {
