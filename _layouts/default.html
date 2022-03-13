@@ -50,7 +50,7 @@
                 <h2>Top Projects</h2>
                 <br />
                 {% if site.show_projects %} {% for project in site.projects %}
-                {% assign name = project[0] %} {% assign description =
+                {% assign repo = project[0] %} {% assign description =
                 project[1] %}
                 <a
                     href="https://github.com/{{ site.github.owner_name }}/{{ name }}"
