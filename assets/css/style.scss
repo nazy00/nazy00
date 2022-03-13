@@ -9,13 +9,16 @@ details > summary {
     font-size: 1.15em;
 }
 
-details > summary:hover {
+details > summary:hover,
+details > summary:active {
     cursor: pointer;
+}
+
+details > summary:hover {
     color: #888;
 }
 
 details > summary:active {
-    cursor: pointer;
     color: #555;
 }
 
