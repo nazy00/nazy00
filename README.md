@@ -1,4 +1,4 @@
-### Hi, I'm Sheikh!
+### ✨ Hi, I'm Sheikh! ✨
 
 Undergrad student at [Saint Mary's University][smu].
 
