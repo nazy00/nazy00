@@ -50,12 +50,14 @@
                 <h2>Top Projects</h2>
                 <br />
                 {% if site.show_projects %} {% for project in site.projects %}
-                <a href="{{ project.url }}">
+                <a
+                    href="https://github.com/{{ site.github.owner_name }}/{{ project }}"
+                >
                     <img
                         class="center-align"
-                        src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ project.repo }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
-                        alt="{{ project.desc }}"
-                        title="{{ project.desc }}"
+                        src="https://github-readme-stats.vercel.app/api/pin/?username={{ site.github.owner_name }}&repo={{ project }}&hide_border=true&theme=dark&show_icons=true&icon_color=ff86dd&bg_color=000"
+                        alt="{{ description[project] }}"
+                        title="{{ description[project] }}"
                     />
                 </a>
                 {% endfor %} {% endif %}
