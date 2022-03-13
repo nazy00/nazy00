@@ -26,10 +26,11 @@ Undergrad student at [Saint Mary's University][smu].
 [![CSS][img_css]][css]
 [![JavaScript][img_js]][js]
 [![MongoDB][img_mongodb]][mongodb]
-[![Express.js][img_express]][express]
+[![Express][img_express]][express]
+[![Vue][img_vue]][vue]
 [![Node.js][img_nodejs]][nodejs]
 [![Bootstrap][img_bootstrap]][bootstrap]
-[![Tailwind CSS][img_tailwind]][tailwind]
+[![Tailwind][img_tailwind]][tailwind]
 
 ### FAST Stack
 
@@ -38,7 +39,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![Forestry CMS][img_forestry]][forestry]
 [![Alpine.js][img_alpinejs]][alpinejs]
 [![Supabase][img_supabase]][supabase]
-[![Tailwind CSS][img_tailwind]][tailwind]
+[![Tailwind][img_tailwind]][tailwind]
 
 ### Miscellaneous
 
@@ -100,7 +101,7 @@ Undergrad student at [Saint Mary's University][smu].
 [vercel]: https://vercel.com "Vercel"
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
-[vuejs]: https://vuejs.org/ "Vue.js"
+[vue]: https://vuejs.org/ "Vue.js"
 
 <!-- Shields -->
 
@@ -115,15 +116,16 @@ Undergrad student at [Saint Mary's University][smu].
 [img_css]: https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&logoColor=cornflowerblue
 [img_js]: https://img.shields.io/badge/-JS-grey?style=for-the-badge&logo=javascript
 [img_mongodb]: https://img.shields.io/badge/-MongoDB-grey?style=for-the-badge&logo=mongodb
-[img_express]: https://img.shields.io/badge/-Expressjs-grey?style=for-the-badge&logo=express
+[img_express]: https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=express
 [img_nodejs]: https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=node.js
 [img_bootstrap]: https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap
 [img_tailwind]: https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge&logo=tailwindcss
 [img_forestry]: https://img.shields.io/badge/-Forestry%20CMS-grey?style=for-the-badge&logo=forestry
 [img_alpinejs]: https://img.shields.io/badge/-Alpine.js-grey?style=for-the-badge&logo=alpine.js
-[img_supabase]: https://img.shields.io/badge/-supabase-grey?style=for-the-badge&logo=supabase
-[img_hugo]: https://img.shields.io/badge/-hugo-grey?style=for-the-badge&logo=hugo&logoColor=white
-[img_netlify]: https://img.shields.io/badge/-netlify-grey?style=for-the-badge&logo=netlify&logoColor=white
-[img_vercel]: https://img.shields.io/badge/-vercel-grey?style=for-the-badge&logo=vercel
-[img_vs_code]: https://img.shields.io/badge/-vs%20code-grey?style=for-the-badge&logo=visualstudiocode
-[img_vim]: https://img.shields.io/badge/-vim-grey?style=for-the-badge&logo=vim
+[img_supabase]: https://img.shields.io/badge/-Supabase-grey?style=for-the-badge&logo=supabase
+[img_hugo]: https://img.shields.io/badge/-Hugo-grey?style=for-the-badge&logo=hugo&logoColor=white
+[img_netlify]: https://img.shields.io/badge/-Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white
+[img_vercel]: https://img.shields.io/badge/-Vercel-grey?style=for-the-badge&logo=vercel
+[img_vs_code]: https://img.shields.io/badge/-VS%20Code-grey?style=for-the-badge&logo=visualstudiocode
+[img_vim]: https://img.shields.io/badge/-Vim-grey?style=for-the-badge&logo=vim
+[img_vue]: https://img.shields.io/badge/-Vue-grey?style=for-the-badge&logo=vue.js
