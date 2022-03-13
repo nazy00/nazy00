@@ -12,19 +12,19 @@ links:
 
 show_projects: true
 projects:
-    - ytpy:
-          - name: ytpy
-          - url: https://github.com/cybardev/ytpy
-          - desc: "CLI YouTube Media Player"
-    - search:
-          - name: search
-          - url: https://github.com/cybardev/search
-          - desc: Custom Search Engine using the Usearch API
-    - xpense:
-          - name: xpense
-          - url: https://github.com/cybardev/xpense
-          - desc: Monthly Expense Calculator for Budgeting
-    - cutefetch:
-          - name: cutefetch
-          - url: https://github.com/cybardev/cutefetch
-          - desc: Cute little fetch script with kitties and bunnies
+    ytpy:
+        name: ytpy
+        url: https://github.com/cybardev/ytpy
+        desc: CLI YouTube Media Player
+    search:
+        name: search
+        url: https://github.com/cybardev/search
+        desc: Custom Search Engine using the Usearch API
+    xpense:
+        name: xpense
+        url: https://github.com/cybardev/xpense
+        desc: Monthly Expense Calculator for Budgeting
+    cutefetch:
+        name: cutefetch
+        url: https://github.com/cybardev/cutefetch
+        desc: Cute little fetch script with kitties and bunnies
