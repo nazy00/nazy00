@@ -100,6 +100,7 @@ Undergrad student at [Saint Mary's University][smu].
 [vercel]: https://vercel.com "Vercel"
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
+[vuejs]: https://vuejs.org/ "Vue.js"
 
 <!-- Shields -->
 
