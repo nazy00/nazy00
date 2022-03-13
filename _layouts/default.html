@@ -49,8 +49,8 @@
             <div id="projects" class="center-align">
                 <h2>Top Projects</h2>
                 <br />
-                {% liquid if site.show_projects for project in site.projects %}
-                assign name = project[0] assign description = project[1] %}
+                {% if site.show_projects {% for project in site.projects %} {%
+                assign name = project[0] {% assign description = project[1] %}
                 <a
                     href="https://github.com/{{ site.github.owner_name }}/{{ name }}"
                 >
@@ -61,7 +61,7 @@
                         title="{{ description }}"
                     />
                 </a>
-                {% liquid endfor endif %}
+                {% endfor %} {% endif %}
             </div>
 
             <footer class="site-footer">
