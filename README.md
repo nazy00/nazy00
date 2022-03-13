@@ -8,7 +8,7 @@ Undergrad student at [Saint Mary's University][smu].
 -   🧠 [Psychology][smu_psyc] minor
 -   🔭 Working on writing [a blog][cy_blog].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
--   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Pop!\_OS][pop_os], as well as [Manjaro][manjaro] XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1][macbook_air] running [macOS][macos].
+-   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Pop!\_OS][pop_os], as well as [Manjaro][manjaro] XFCE with i3wm.<br />Ironically, I now use an [M1 MacBook Air][macbook_air] running [macOS][macos].
 
 ---
 
