@@ -4,11 +4,11 @@ Undergrad student at [Saint Mary's University](https://www.smu.ca/ "SMU website"
 
 ### About Me
 
--   💻 [Computing Science](https://www.smu.ca/academics/computing-science-program.html) major
--   🧠 [Psychology](https://www.smu.ca/academics/psychology-program.html) minor
+-   💻 [Computing Science](https://www.smu.ca/academics/computing-science-program.html "CS at SMU") major
+-   🧠 [Psychology](https://www.smu.ca/academics/psychology-program.html "Psychology at SMU") minor
 -   🔭 Working on writing [a blog](https://cybar.dev "cybar.dev").
--   📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=mail.ru)](mailto:sheikh@cybar.dev "sheikh@cybar.dev") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin)](https://linkedin.com/in/cybardev) [![Discord](https://img.shields.io/badge/-Discord-grey?style=flat&logo=discord&logoColor=white)](https://discord.com/users/316478839146676224) [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=minutemailer&logoColor=white)](https://t.me/cybardev)
--   ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/)! Especially [Pop!\_OS](https://pop.system76.com/), as well as [Manjaro](https://manjaro.org/) XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1](https://www.apple.com/ca/macbook-air/) running [macOS Monterey](https://www.apple.com/ca/macos/monterey/).
+-   📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=mail.ru)](mailto:sheikh@cybar.dev "sheikh@cybar.dev") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin)](https://linkedin.com/in/cybardev "Sheikh's LinkedIn") [![Discord](https://img.shields.io/badge/-Discord-grey?style=flat&logo=discord&logoColor=white)](https://discord.com/users/316478839146676224 "cybardev#8757") [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=minutemailer&logoColor=white)](https://t.me/cybardev "@cybardev")
+-   ⚡ Fun fact: I love [Linux](https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia")! Especially [Pop!\_OS](https://pop.system76.com/ "Pop!_OS"), as well as [Manjaro](https://manjaro.org/ "Manjaro Linux") XFCE with i3wm.<br />Ironically, I now use a [MacBook Air M1](https://www.apple.com/ca/macbook-air/ "Macbook Air on apple.com") running [macOS Monterey](https://www.apple.com/ca/macos/monterey/ "MacOS Monterey on apple.com").
 
 ---
 
