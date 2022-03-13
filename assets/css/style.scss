@@ -4,6 +4,15 @@
 @import "{{ site.theme }}";
 
 // custom CSS
+details > summary {
+    font-weight: bold;
+    font-size: 1.15em;
+}
+
+details > summary:hover {
+    text-decoration: underline;
+}
+
 .center-align {
     text-align: center;
 }

@@ -53,7 +53,7 @@ Undergrad student at [Saint Mary's University][smu].
 ## GitHub Stats
 
 <details>
-<summary><b>Click to show ✨</b></summary>
+<summary>Click to show ✨</summary>
 <br />
 
 <div align="center">
