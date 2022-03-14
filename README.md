@@ -134,7 +134,7 @@ _(under development)_
 [img_hugo]: https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white
 [img_jekyll]: https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll
 [img_github]: https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white
-[img_netlify]: https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=azure
+[img_netlify]: https://img.shields.io/badge/-Netlify-azure?style=for-the-badge&logo=netlify
 [img_vercel]: https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
 [img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
