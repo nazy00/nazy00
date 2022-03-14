@@ -30,7 +30,6 @@ Undergrad student at [Saint Mary's University][smu].
 [![Vue][img_vue]][vue]
 [![Node.js][img_nodejs]][nodejs]
 [![Bootstrap][img_bootstrap]][bootstrap]
-[![Tailwind][img_tailwind]][tailwind]
 
 ### FAST Stack
 
