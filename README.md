@@ -92,6 +92,7 @@ _(under development)_
 [js]: https://www.javascript.com "Javascript (ES6 standard)"
 [mongodb]: https://www.mongodb.com/ "MongoDB"
 [express]: https://expressjs.com/ "Express.js"
+[vue]: https://vuejs.org/ "Vue.js"
 [nodejs]: https://nodejs.org "Node.js"
 [bootstrap]: https://getbootstrap.com "Bootstrap 5"
 [tailwind]: https://tailwindcss.com "Tailwind CSS"
@@ -105,33 +106,35 @@ _(under development)_
 [vercel]: https://vercel.com "Vercel"
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
-[vue]: https://vuejs.org/ "Vue.js"
 
-<!-- Shields -->
+<!-- Contact -->
 
 [img_email]: https://img.shields.io/badge/-Email-grey?style=flat&logo=mail.ru
 [img_linkedin]: https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin
 [img_discord]: https://img.shields.io/badge/-Discord-grey?style=flat&logo=discord&logoColor=white
 [img_telegram]: https://img.shields.io/badge/-Telegram-grey?style=flat&logo=minutemailer&logoColor=white
-[img_python]: https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white
-[img_java]: https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=white
-[img_bash]: https://img.shields.io/badge/-Shell-grey?style=for-the-badge&logo=gnubash&logoColor=white
-[img_html]: https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5
-[img_css]: https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3&logoColor=cornflowerblue
-[img_js]: https://img.shields.io/badge/-JS-grey?style=for-the-badge&logo=javascript
-[img_mongodb]: https://img.shields.io/badge/-MongoDB-grey?style=for-the-badge&logo=mongodb
-[img_express]: https://img.shields.io/badge/-Express-grey?style=for-the-badge&logo=express
-[img_nodejs]: https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=node.js
-[img_bootstrap]: https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap
-[img_tailwind]: https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge&logo=tailwindcss
-[img_forestry]: https://img.shields.io/badge/-Forestry%20CMS-grey?style=for-the-badge&logo=forestry
-[img_alpinejs]: https://img.shields.io/badge/-Alpine.js-grey?style=for-the-badge&logo=alpine.js
-[img_supabase]: https://img.shields.io/badge/-Supabase-grey?style=for-the-badge&logo=supabase
-[img_hugo]: https://img.shields.io/badge/-Hugo-grey?style=for-the-badge&logo=hugo&logoColor=white
-[img_jekyll]: https://img.shields.io/badge/-Jekyll-grey?style=for-the-badge&logo=jekyll&logoColor=white
-[img_github]: https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=github&logoColor=white
-[img_netlify]: https://img.shields.io/badge/-Netlify-grey?style=for-the-badge&logo=netlify&logoColor=white
-[img_vercel]: https://img.shields.io/badge/-Vercel-grey?style=for-the-badge&logo=vercel
-[img_vs_code]: https://img.shields.io/badge/-VS%20Code-grey?style=for-the-badge&logo=visualstudiocode
-[img_vim]: https://img.shields.io/badge/-Vim-grey?style=for-the-badge&logo=vim
-[img_vue]: https://img.shields.io/badge/-Vue-grey?style=for-the-badge&logo=vue.js
+
+<!-- Badges -->
+
+[img_python]: https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white
+[img_java]: https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[img_bash]: https://img.shields.io/badge/-Shell-darkslategrey?style=for-the-badge&logo=gnubash&logoColor=white
+[img_html]: https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[img_css]: https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[img_js]: https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[img_mongodb]: https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white
+[img_express]: https://img.shields.io/badge/-Express-ivory?style=for-the-badge&logo=express&logoColor=black
+[img_vue]: https://img.shields.io/badge/-Vue-35495e?style=for-the-badge&logo=vue.js
+[img_nodejs]: https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[img_bootstrap]: https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[img_tailwind]: https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white
+[img_forestry]: https://img.shields.io/badge/-Forestry%20CMS-black?style=for-the-badge&logo=forestry
+[img_alpinejs]: https://img.shields.io/badge/-Alpine.js-azure?style=for-the-badge&logo=alpine.js
+[img_supabase]: https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+[img_hugo]: https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white
+[img_jekyll]: https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll
+[img_github]: https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white
+[img_netlify]: https://img.shields.io/badge/-Netlify-white?style=for-the-badge&logo=netlify&logoColor=00C7B7
+[img_vercel]: https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel
+[img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
+[img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
