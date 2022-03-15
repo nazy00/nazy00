@@ -91,7 +91,7 @@ _(under development)_
 [js]: https://www.javascript.com "Javascript (ES6 standard)"
 [mongodb]: https://www.mongodb.com/ "MongoDB"
 [express]: https://expressjs.com/ "Express.js"
-[vue]: https://vuejs.org/ "Vue.js"
+[vue]: https://github.com/vuejs/petite-vue "Vue.js"
 [nodejs]: https://nodejs.org "Node.js"
 [bootstrap]: https://getbootstrap.com "Bootstrap 5"
 [tailwind]: https://tailwindcss.com "Tailwind CSS"
