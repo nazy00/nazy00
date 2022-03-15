@@ -46,14 +46,14 @@ _(under development)_
 <details>
 <summary>More info 💬</summary>
 <br />
-
--   CSS: Tailwind
--   JS: Alpine.js
--   CD, CMS: Netlify
--   Git, CI: GitHub
--   Static Site Generator: Jekyll
--   DB: Fauna
-
+<ul>
+<li>CSS: Tailwind</li>
+<li>JS: Alpine.js</li>
+<li>CD, CMS: Netlify</li>
+<li>Git, CI: GitHub</li>
+<li>Static Site Generator: Jekyll</li>
+<li>DB: Fauna</li>
+</ul>
 </details>
 
 ### Miscellaneous
