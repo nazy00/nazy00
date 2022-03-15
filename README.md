@@ -28,7 +28,6 @@ Undergrad student at [Saint Mary's University][smu].
 [![MongoDB][img_mongodb]][mongodb]
 [![Express][img_express]][express]
 [![Node.js][img_nodejs]][nodejs]
-[![Bootstrap][img_bootstrap]][bootstrap]
 
 <!-- [![Vue][img_vue]][vue] -->
 
@@ -38,7 +37,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 _(under development)_
 
-[![Tailwind][img_tailwind]][tailwind]
+[![Bootstrap][img_bootstrap]][bootstrap]
 [![Alpine.js][img_alpinejs]][alpinejs]
 [![Netlify][img_netlify]][netlify]
 [![GitHub][img_github]][github]
@@ -47,7 +46,7 @@ _(under development)_
 <summary>More info 💬</summary>
 <br />
 <ul>
-<li>CSS: Tailwind</li>
+<li>CSS: Bootstrap</li>
 <li>JS: Alpine.js</li>
 <li>CD, CMS: Netlify</li>
 <li>Git, CI: GitHub</li>
@@ -106,7 +105,6 @@ _(under development)_
 [vue]: https://github.com/vuejs/petite-vue "Vue.js"
 [nodejs]: https://nodejs.org "Node.js"
 [bootstrap]: https://getbootstrap.com "Bootstrap 5"
-[tailwind]: https://tailwindcss.com "Tailwind CSS"
 [alpinejs]: https://alpinejs.dev "Alpine.js"
 [netlify]: https://www.netlify.com "Netlify"
 [github]: https://github.com "GitHub"
@@ -136,7 +134,6 @@ _(under development)_
 [img_vue]: https://img.shields.io/badge/-Vue-35495e?style=for-the-badge&logo=vue.js
 [img_nodejs]: https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [img_bootstrap]: https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[img_tailwind]: https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white
 [img_alpinejs]: https://img.shields.io/badge/-Alpine.js-azure?style=for-the-badge&logo=alpine.js
 [img_netlify]: https://img.shields.io/badge/-Netlify-azure?style=for-the-badge&logo=netlify
 [img_github]: https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white
