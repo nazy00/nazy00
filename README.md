@@ -44,7 +44,7 @@ _(under development)_
 [![GitHub][img_github]][github]
 
 <details>
-<summary>More info...</summary>
+<summary>More info 💬</summary>
 <br />
 
 -   CSS: Tailwind
