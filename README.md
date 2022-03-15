@@ -27,25 +27,39 @@ Undergrad student at [Saint Mary's University][smu].
 [![JavaScript][img_js]][js]
 [![MongoDB][img_mongodb]][mongodb]
 [![Express][img_express]][express]
-[![Vue][img_vue]][vue]
 [![Node.js][img_nodejs]][nodejs]
 [![Bootstrap][img_bootstrap]][bootstrap]
 
-### FAST Stack
+<!-- [![Vue][img_vue]][vue] -->
+
+### TANG Stack
+
+<!-- Logo: Tang (blue surgeonfish) -->
 
 _(under development)_
 
-[![Forestry CMS][img_forestry]][forestry]
-[![Alpine.js][img_alpinejs]][alpinejs]
-[![Supabase][img_supabase]][supabase]
 [![Tailwind][img_tailwind]][tailwind]
+[![Alpine.js][img_alpinejs]][alpinejs]
+[![Netlify][img_netlify]][netlify]
+[![GitHub][img_github]][github]
+
+<details>
+<summary>More info...</summary>
+<br />
+
+-   CSS: Tailwind
+-   JS: Alpine.js
+-   CD, CMS: Netlify
+-   Git, CI: GitHub
+-   Static Site Generator: Jekyll
+-   DB: Fauna
+
+</details>
 
 ### Miscellaneous
 
 [![Hugo][img_hugo]][hugo]
 [![Jekyll][img_jekyll]][jekyll]
-[![GitHub][img_github]][github]
-[![Netlify][img_netlify]][netlify]
 [![Vercel][img_vercel]][vercel]
 [![VS Code][img_vs_code]][vs_code]
 [![Vim][img_vim]][vim]
@@ -95,13 +109,11 @@ _(under development)_
 [nodejs]: https://nodejs.org "Node.js"
 [bootstrap]: https://getbootstrap.com "Bootstrap 5"
 [tailwind]: https://tailwindcss.com "Tailwind CSS"
-[forestry]: https://forestry.io "Forestry CMS"
 [alpinejs]: https://alpinejs.dev "Alpine.js"
-[supabase]: https://supabase.com "Supabase"
+[netlify]: https://www.netlify.com "Netlify"
+[github]: https://github.com "GitHub"
 [hugo]: https://gohugo.io "Hugo - static site generator"
 [jekyll]: https://gohugo.io "Jekyll - static site generator"
-[github]: https://github.com "GitHub"
-[netlify]: https://www.netlify.com "Netlify"
 [vercel]: https://vercel.com "Vercel"
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
@@ -127,13 +139,11 @@ _(under development)_
 [img_nodejs]: https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [img_bootstrap]: https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [img_tailwind]: https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white
-[img_forestry]: https://img.shields.io/badge/-Forestry%20CMS-black?style=for-the-badge&logo=forestry
 [img_alpinejs]: https://img.shields.io/badge/-Alpine.js-azure?style=for-the-badge&logo=alpine.js
-[img_supabase]: https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+[img_netlify]: https://img.shields.io/badge/-Netlify-azure?style=for-the-badge&logo=netlify
+[img_github]: https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white
 [img_hugo]: https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white
 [img_jekyll]: https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll
-[img_github]: https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white
-[img_netlify]: https://img.shields.io/badge/-Netlify-azure?style=for-the-badge&logo=netlify
 [img_vercel]: https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
 [img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
