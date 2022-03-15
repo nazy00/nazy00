@@ -51,7 +51,7 @@ _(under development)_
 <li>JS: Alpine.js</li>
 <li>CD, CMS: Netlify</li>
 <li>Git, CI: GitHub</li>
-<li>Static Site Generator: Jekyll</li>
+<li>Markup: Jekyll</li>
 <li>DB: Fauna</li>
 </ul>
 </details>
