@@ -31,7 +31,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 <!-- [![Vue][img_vue]][vue] -->
 
-### TANG Stack
+### BANG Stack
 
 <!-- Logo: Blue Tang (surgeonfish) -->
 
