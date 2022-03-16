@@ -27,7 +27,6 @@ Undergrad student at [Saint Mary's University][smu].
 [![JavaScript][img_js]][js]
 [![MongoDB][img_mongodb]][mongodb]
 [![Express][img_express]][express]
-[![Vue][img_vue]][vue]
 [![Node.js][img_nodejs]][nodejs]
 
 ### BANG Stack
@@ -99,7 +98,6 @@ _(under development)_
 [js]: https://www.javascript.com "Javascript (ES6 standard)"
 [mongodb]: https://www.mongodb.com/ "MongoDB"
 [express]: https://expressjs.com/ "Express.js"
-[vue]: https://github.com/vuejs/petite-vue "Vue.js"
 [nodejs]: https://nodejs.org "Node.js"
 [bootstrap]: https://getbootstrap.com "Bootstrap 5"
 [alpinejs]: https://alpinejs.dev "Alpine.js"
@@ -128,7 +126,6 @@ _(under development)_
 [img_js]: https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [img_mongodb]: https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white
 [img_express]: https://img.shields.io/badge/-Express-ivory?style=for-the-badge&logo=express&logoColor=black
-[img_vue]: https://img.shields.io/badge/-Vue-35495e?style=for-the-badge&logo=vue.js
 [img_nodejs]: https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [img_bootstrap]: https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [img_alpinejs]: https://img.shields.io/badge/-Alpine.js-azure?style=for-the-badge&logo=alpine.js
