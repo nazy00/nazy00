@@ -31,8 +31,6 @@ Undergrad student at [Saint Mary's University][smu].
 
 ### BANG Stack
 
-_(under development)_
-
 [![Bootstrap][img_bootstrap]][bootstrap]
 [![Alpine.js][img_alpinejs]][alpinejs]
 [![Netlify][img_netlify]][netlify]
