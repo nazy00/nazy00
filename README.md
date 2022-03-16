@@ -27,13 +27,10 @@ Undergrad student at [Saint Mary's University][smu].
 [![JavaScript][img_js]][js]
 [![MongoDB][img_mongodb]][mongodb]
 [![Express][img_express]][express]
+[![Vue][img_vue]][vue]
 [![Node.js][img_nodejs]][nodejs]
 
-<!-- [![Vue][img_vue]][vue] -->
-
 ### BANG Stack
-
-<!-- Logo: Blue Tang (surgeonfish) -->
 
 _(under development)_
 
