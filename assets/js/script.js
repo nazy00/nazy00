@@ -1,7 +1,10 @@
 // interactivity
-document.querySelectorAll("summary").forEach((element) => {
-    element.addEventListener("mousedown", (event) => {
-        let elemActive = event.target.getAttribute("active");
-        event.target.setAttribute("active", elemActive ? "false" : "true");
+document.querySelectorAll("details").forEach((element) => {
+    element.addEventListener("click", (event) => {
+        if (event.target.getAttribute("open")) {
+            event.target.children.summary.style.color = "#ff86dd";
+        } else {
+            event.target.children.summary.style.color = initial;
+        }
     });
 });

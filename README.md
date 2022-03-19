@@ -37,7 +37,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![Netlify][img_netlify]][netlify]
 [![GitHub][img_github]][github]
 
-<details>
+<details open="false">
 <summary>More info 💬</summary>
 <br />
 <ul>
@@ -62,7 +62,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 ## GitHub Stats
 
-<details>
+<details open="false">
 <summary>Click to show ✨</summary>
 <br />
 <div align="center">
