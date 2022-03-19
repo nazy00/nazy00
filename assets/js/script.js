@@ -1,6 +1,7 @@
 // interactivity
 document.querySelectorAll("summary").forEach((element) => {
     element.addEventListener("mousedown", (event) => {
-        event.target.active = !event.target.active;
+        let elemActive = event.target.getAttribute("active");
+        event.target.setAttribute("active", elemActive ? "false" : "true");
     });
 });
