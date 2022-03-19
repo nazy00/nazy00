@@ -1,11 +1,11 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 // custom SCSS
 $header-bg-color: #a0a0a0;
 $header-bg-color-secondary: #3d3d3d;
+
+@import "{{ site.theme }}";
 
 // custom CSS
 details > summary {
