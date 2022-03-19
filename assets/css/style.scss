@@ -50,6 +50,10 @@ body {
     }
 }
 
+#projects > a {
+    text-decoration: none;
+}
+
 details > summary {
     font-weight: bold;
     font-size: 1.15em;
