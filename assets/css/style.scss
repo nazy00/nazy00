@@ -64,8 +64,9 @@ details > summary:active {
     cursor: pointer;
 }
 
-details > summary:hover {
-    color: #ff86dd;
+details > summary:hover,
+details[open] > summary {
+    color: hotpink;
 }
 
 details > summary:active {
