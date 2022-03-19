@@ -37,8 +37,8 @@ Undergrad student at [Saint Mary's University][smu].
 [![Netlify][img_netlify]][netlify]
 [![GitHub][img_github]][github]
 
-<details>
-<summary @mousedown="$el.active = !$el.active">More info 💬</summary>
+<details @mousedown="$el.active = !$el.active">
+<summary>More info 💬</summary>
 <br />
 <ul>
 <li>CSS: Bootstrap</li>
@@ -62,8 +62,8 @@ Undergrad student at [Saint Mary's University][smu].
 
 ## GitHub Stats
 
-<details>
-<summary @mousedown="$el.active = !$el.active">Click to show ✨</summary>
+<details @mousedown="$el.active = !$el.active">
+<summary>Click to show ✨</summary>
 <br />
 <div align="center">
     <img src="https://gitstatus.cybar.dev/api?username=cybardev&hide_border=true&theme=dark&show_icons=true&count_private=true&icon_color=ff86dd&bg_color=000" alt="stats" />
