@@ -74,7 +74,9 @@ details > summary:active {
 }
 
 .btn {
-    width: 100px;
+    @include large {
+        width: 100px;
+    }
 }
 
 .center-align {
