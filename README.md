@@ -38,7 +38,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![GitHub][img_github]][github]
 
 <details>
-<summary>More info 💬</summary>
+<summary @click="$el.active = !$el.active">More info 💬</summary>
 <br />
 <ul>
 <li>CSS: Bootstrap</li>
@@ -63,7 +63,7 @@ Undergrad student at [Saint Mary's University][smu].
 ## GitHub Stats
 
 <details>
-<summary>Click to show ✨</summary>
+<summary @click="$el.active = !$el.active">Click to show ✨</summary>
 <br />
 <div align="center">
     <img src="https://gitstatus.cybar.dev/api?username=cybardev&hide_border=true&theme=dark&show_icons=true&count_private=true&icon_color=ff86dd&bg_color=000" alt="stats" />
