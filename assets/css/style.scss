@@ -5,8 +5,9 @@
 // Headers
 $sakura-pink: #e2ade4;
 $header-heading-color: white;
-$header-bg-color: #dc3255;
+$header-bg-color: #dc3273;
 $header-bg-color-secondary: $sakura-pink;
+$header-bg-angle: 135deg;
 
 // Text
 $section-headings-color: white;
@@ -28,6 +29,14 @@ $hr-border-color: #eff0f1c4;
 // -------------------------------- Custom CSS ---------------------------------
 body {
     background-color: black;
+}
+
+.page-header {
+    background-image: linear-gradient(
+        $header-bg-angle,
+        $header-bg-color-secondary,
+        $header-bg-color
+    );
 }
 
 .main-content {
