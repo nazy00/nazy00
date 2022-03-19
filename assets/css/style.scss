@@ -3,14 +3,15 @@
 
 // --------------------------------- Variables ---------------------------------
 // Headers
-$header-heading-color: #fff;
+$sakura-pink: #e2ade4;
+$header-heading-color: white;
 $header-bg-color: #dc3255;
-$header-bg-color-secondary: #e2ade4;
+$header-bg-color-secondary: $sakura-pink;
 
 // Text
-$section-headings-color: #fff;
+$section-headings-color: white;
 $body-text-color: #c4c4c4;
-$body-link-color: #e2ade4;
+$body-link-color: $sakura-pink;
 $blockquote-text-color: #afafaf;
 
 // Code
@@ -26,7 +27,7 @@ $hr-border-color: #eff0f1c4;
 
 // -------------------------------- Custom CSS ---------------------------------
 body {
-    background-color: #000;
+    background-color: black;
 }
 
 .main-content {
@@ -51,11 +52,11 @@ details > summary:active {
 }
 
 details > summary:hover {
-    color: #888;
+    color: $sakura-pink;
 }
 
 details > summary:active {
-    color: #555;
+    color: #ff86dd;
 }
 
 .center-align {
