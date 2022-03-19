@@ -1,9 +1,31 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// -------------------------------- Custom SCSS --------------------------------
+// Headers
+$header-heading-color: #fff;
+$header-bg-color: rgb(220, 50, 85);
+$header-bg-color-secondary: #e2ade4;
 
-// custom CSS
+// Text
+$section-headings-color: #e2ade4;
+
+// Code
+$code-bg-color: #000;
+$code-text-color: #e2e2e2;
+
+// Borders
+// $border-color: #dce6f0;
+// $table-border-color: #e9ebec;
+// $hr-border-color: #eff0f1;
+
+@import "{{ site.theme }}"; // import theme styles
+
+// -------------------------------- Custom CSS ---------------------------------
+body {
+    background-color: #000;
+}
+
 details > summary {
     font-weight: bold;
     font-size: 1.15em;
