@@ -17,3 +17,4 @@ projects:
     cutefetch: Cute little fetch script with kitties and bunnies
     search: Custom Search Engine using the Usearch API
     xpense: Monthly Expense Calculator for Budgeting
+    zen.zsh: Simple and Elegant Prompt for Zsh
