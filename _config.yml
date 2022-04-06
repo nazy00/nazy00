@@ -16,4 +16,6 @@ projects:
     ytpy: CLI YouTube Media Player
     cutefetch: Cute little fetch script with kitties and bunnies
     search: Custom Search Engine using the Usearch API
+    zen.zsh: Simple and Elegant Prompt for Zsh
     xpense: Monthly Expense Calculator for Budgeting
+    dotfiles: Configuration files for my MacOS setup
