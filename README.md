@@ -19,6 +19,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![Python][img_python]][python]
 [![Java][img_java]][java]
 [![Shell][img_bash]][zsh]
+[![Clojure][img_clojure]][clojure]
 
 ### Web Technologies
 
@@ -92,6 +93,7 @@ Undergrad student at [Saint Mary's University][smu].
 [python]: https://www.python.org "Python"
 [java]: https://www.java.com "Java"
 [zsh]: https://www.zsh.org "Zsh"
+[clojure]: https://clojure.org/ "Clojure"
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5"
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS3"
 [js]: https://www.javascript.com "Javascript (ES6 standard)"
@@ -118,9 +120,10 @@ Undergrad student at [Saint Mary's University][smu].
 
 <!-- Badges -->
 
-[img_python]: https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white
+[img_python]: https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=3670A0
 [img_java]: https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [img_bash]: https://img.shields.io/badge/-Shell-darkslategrey?style=for-the-badge&logo=gnubash&logoColor=white
+[img_clojure]: https://img.shields.io/badge/-Clojure-91DC47?style=for-the-badge&logo=clojure&logoColor=white&labelColor=5881D8
 [img_html]: https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [img_css]: https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [img_js]: https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
