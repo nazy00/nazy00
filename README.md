@@ -40,14 +40,14 @@ Undergrad student at [Saint Mary's University][smu].
 <details>
 <summary>More info 💬</summary>
 <br />
-
-- CSS: Bootstrap
-- JS: Alpine.js
-- CD, CMS: Netlify
-- Git, CI: GitHub
-- Markup: Jekyll
-- DB: Fauna
-
+<ul>
+<li>CSS: Bootstrap</li>
+<li>JS: Alpine.js</li>
+<li>CD, CMS: Netlify</li>
+<li>Git, CI: GitHub</li>
+<li>Markup: Jekyll</li>
+<li>DB: Fauna</li>
+</ul>
 </details>
 
 ### Miscellaneous
