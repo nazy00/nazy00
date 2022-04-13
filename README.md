@@ -18,7 +18,6 @@ Undergrad student at [Saint Mary's University][smu].
 
 [![Python][img_python]][python]
 [![Java][img_java]][java]
-[![Shell][img_bash]][zsh]
 [![Clojure][img_clojure]][clojure]
 
 ### Web Technologies
@@ -58,6 +57,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![Vercel][img_vercel]][vercel]
 [![VS Code][img_vs_code]][vs_code]
 [![Vim][img_vim]][vim]
+[![Shell][img_shell]][zsh]
 
 ---
 
@@ -92,7 +92,6 @@ Undergrad student at [Saint Mary's University][smu].
 [macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
 [python]: https://www.python.org "Python"
 [java]: https://www.java.com "Java"
-[zsh]: https://www.zsh.org "Zsh"
 [clojure]: https://clojure.org/ "Clojure"
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5"
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS3"
@@ -110,6 +109,7 @@ Undergrad student at [Saint Mary's University][smu].
 [vercel]: https://vercel.com "Vercel"
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
+[zsh]: https://www.zsh.org "Zsh"
 
 <!-- Contact -->
 
@@ -121,8 +121,7 @@ Undergrad student at [Saint Mary's University][smu].
 <!-- Badges -->
 
 [img_python]: https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=3670A0
-[img_java]: https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[img_bash]: https://img.shields.io/badge/-Shell-darkslategrey?style=for-the-badge&logo=gnubash&logoColor=white
+[img_java]: https://img.shields.io/badge/-Java-firebrick?style=for-the-badge&logo=java&logoColor=blue&labelColor=ivory
 [img_clojure]: https://img.shields.io/badge/-Clojure-91DC47?style=for-the-badge&logo=clojure&logoColor=white&labelColor=5881D8
 [img_html]: https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [img_css]: https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -140,3 +139,4 @@ Undergrad student at [Saint Mary's University][smu].
 [img_vercel]: https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
 [img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
+[img_shell]: https://img.shields.io/badge/-Shell-darkslategrey?style=for-the-badge&logo=gnubash&logoColor=white
