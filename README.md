@@ -2,6 +2,8 @@
 
 Undergrad student at [Saint Mary's University][smu].
 
+> *Check out my resume by clicking [this link][resume].*
+
 ## About Me
 
 -   💻 [Computing Science][smu_cs] major
@@ -77,10 +79,11 @@ Undergrad student at [Saint Mary's University][smu].
 
 <!-- Links -->
 
+[resume]: https://me.cybar.dev/assets/resume.pdf
 [smu]: https://www.smu.ca/ "SMU website"
 [smu_cs]: https://www.smu.ca/academics/computing-science-program.html "CS at SMU"
 [smu_psyc]: https://www.smu.ca/academics/psychology-program.html "Psychology at SMU"
-[cy_blog]: https://cybar.dev "cybar.dev"
+[cy_blog]: https://blog.cybar.dev "cybar.dev"
 [email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
 [linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
 [discord]: https://discord.com/users/316478839146676224 "cybardev#8757"
