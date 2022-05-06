@@ -7,8 +7,8 @@ description: Aspiring Front-end Web Developer and Avid Tech Enthusiast
 show_links: true
 links:
     github: https://github.com/cybardev
-    resume: https://me.cybar.dev/assets/resume.pdf
-    blog: https://cybar.dev
+    resume: ./assets/resume.pdf
+    blog: https://blog.cybar.dev
 
 # Projects
 show_projects: true
