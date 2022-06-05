@@ -19,3 +19,5 @@ projects:
     zen.zsh: Simple and Elegant Prompt for Zsh
     xpense: Monthly Expense Calculator for Budgeting
     dotfiles: Configuration files for my MacOS setup
+    PyPass: Random Password Generator with GUI
+    blog: Full-stack blog with CMS for client at Northwood
