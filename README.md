@@ -79,7 +79,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 <!-- Links -->
 
-[resume]: https://link.cybar.dev/resume
+[resume]: https://resume.cybar.dev
 [smu]: https://www.smu.ca/ "SMU website"
 [smu_cs]: https://www.smu.ca/academics/computing-science-program.html "CS at SMU"
 [smu_psyc]: https://www.smu.ca/academics/psychology-program.html "Psychology at SMU"
