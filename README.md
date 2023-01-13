@@ -48,7 +48,7 @@ Undergrad student at [Saint Mary's University][smu].
 <li>CD, CMS: Netlify</li>
 <li>Git, CI: GitHub</li>
 <li>Markup: Jekyll</li>
-<li>DB: Fauna</li>
+<li>DB: MongoDB</li>
 </ul>
 </details>
 
