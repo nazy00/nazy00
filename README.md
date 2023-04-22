@@ -10,7 +10,7 @@ Undergrad student at [Saint Mary's University][smu].
 -   🧠 [Psychology][smu_psyc] minor
 -   🔭 Working on writing [a blog][cy_blog].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
--   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile] - a tiling window manager configurable with Python.<br />Ironically, I mainly use an [M1 MacBook Air][macbook_air] running [macOS][macos].
+-   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile].<br />Ironically, I mainly use an [M1 MacBook Air][macbook_air] running [macOS][macos] with [Yabai][yabai].
 
 ---
 
@@ -93,6 +93,7 @@ Undergrad student at [Saint Mary's University][smu].
 [qtile]: http://qtile.org "Qtile"
 [macbook_air]: https://www.apple.com/ca/macbook-air/ "Macbook Air on apple.com"
 [macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
+[yabai]: https://github.com/koekeishiya/yabai "yabai"
 [python]: https://www.python.org "Python"
 [java]: https://www.java.com "Java"
 [clojure]: https://clojure.org/ "Clojure"
