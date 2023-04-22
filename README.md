@@ -10,7 +10,7 @@ Undergrad student at [Saint Mary's University][smu].
 -   🧠 [Psychology][smu_psyc] minor
 -   🔭 Working on writing [a blog][cy_blog].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
--   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Pop!\_OS][pop_os], as well as [Manjaro][manjaro] XFCE with i3wm.<br />Ironically, I now use an [M1 MacBook Air][macbook_air] running [macOS][macos].
+-   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with Qtile - a tiling window manager configurable with Python.<br />Ironically, I mainly use an [M1 MacBook Air][macbook_air] running [macOS][macos].
 
 ---
 
@@ -89,8 +89,7 @@ Undergrad student at [Saint Mary's University][smu].
 [discord]: https://discord.com/users/316478839146676224 "cybardev#8757"
 [telegram]: https://t.me/cybardev "@cybardev"
 [wiki_linux]: https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia"
-[pop_os]: https://pop.system76.com/ "Pop!_OS"
-[manjaro]: https://manjaro.org/ "Manjaro Linux"
+[endeavour_os]: https://endeavouros.com/ "Endeavour OS"
 [macbook_air]: https://www.apple.com/ca/macbook-air/ "Macbook Air on apple.com"
 [macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
 [python]: https://www.python.org "Python"
