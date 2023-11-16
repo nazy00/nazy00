@@ -12,7 +12,7 @@ Undergrad student at [Saint Mary's University][smu].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
 -   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile].<br />
 ~~Ironically, I mainly use an [M1 MacBook Air][macbook_air] running [macOS][macos] with [Yabai][yabai].~~<br />
-Currently running Fedora Asahi Remix with KDE.
+Currently running Fedora Asahi Remix with KDE Plasma.
 
 ---
 
