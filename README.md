@@ -23,7 +23,6 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [![Python][img_python]][python]
 [![Shell][img_shell]][zsh]
 [![Java][img_java]][java]
-[![Clojure][img_clojure]][clojure]
 
 ### Web Technologies
 
@@ -46,6 +45,7 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [![Vercel][img_vercel]][vercel]
 [![VS Code][img_vs_code]][vs_code]
 [![Vim][img_vim]][vim]
+[![Clojure][img_clojure]][clojure]
 
 ---
 
@@ -129,4 +129,4 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [img_vercel]: https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
 [img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
-[img_shell]: https://img.shields.io/badge/-Shell-darkslategrey?style=for-the-badge&logo=gnubash&logoColor=white
+[img_shell]: https://img.shields.io/badge/-Shell-darkslategrey?style=for-the-badge&logo=gnubash&logoColor=darkslategrey&labelColor=ivory
