@@ -129,4 +129,4 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [img_vercel]: https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
 [img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
-[img_shell]: https://img.shields.io/badge/-Shell-darkslategrey?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=green
+[img_shell]: https://img.shields.io/badge/-Shell-green?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=darkslategrey
