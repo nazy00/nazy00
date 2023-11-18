@@ -21,6 +21,7 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 ### Programming Languages
 
 [![Python][img_python]][python]
+[![Shell][img_shell]][zsh]
 [![Java][img_java]][java]
 [![Clojure][img_clojure]][clojure]
 
@@ -29,11 +30,11 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [![HTML][img_html]][html]
 [![CSS][img_css]][css]
 [![JavaScript][img_js]][js]
-[![Alpine.js][img_alpinejs]][alpinejs]
-[![Bootstrap][img_bootstrap]][bootstrap]
 [![MongoDB][img_mongodb]][mongodb]
 [![Express][img_express]][express]
+[![Alpine.js][img_alpinejs]][alpinejs]
 [![Node.js][img_nodejs]][nodejs]
+[![Bootstrap][img_bootstrap]][bootstrap]
 [![SASS][img_sass]][sass]
 
 ### Miscellaneous
@@ -45,7 +46,6 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [![Vercel][img_vercel]][vercel]
 [![VS Code][img_vs_code]][vs_code]
 [![Vim][img_vim]][vim]
-[![Shell][img_shell]][zsh]
 
 ---
 
