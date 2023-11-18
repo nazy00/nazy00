@@ -16,7 +16,7 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 
 ---
 
-## Technologies I Use
+## My Tech Stack
 
 ### Programming Languages
 
@@ -29,35 +29,19 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [![HTML][img_html]][html]
 [![CSS][img_css]][css]
 [![JavaScript][img_js]][js]
+[![Alpine.js][img_alpinejs]][alpinejs]
+[![Bootstrap][img_bootstrap]][bootstrap]
 [![MongoDB][img_mongodb]][mongodb]
 [![Express][img_express]][express]
 [![Node.js][img_nodejs]][nodejs]
 [![SASS][img_sass]][sass]
 
-### BANG Stack
-
-[![Bootstrap][img_bootstrap]][bootstrap]
-[![Alpine.js][img_alpinejs]][alpinejs]
-[![Netlify][img_netlify]][netlify]
-[![GitHub][img_github]][github]
-
-<details>
-<summary>More info 💬</summary>
-<br />
-<ul>
-<li>CSS: Bootstrap</li>
-<li>JS: Alpine.js</li>
-<li>CD, CMS: Netlify</li>
-<li>Git, CI: GitHub</li>
-<li>Markup: Jekyll</li>
-<li>DB: MongoDB</li>
-</ul>
-</details>
-
 ### Miscellaneous
 
+[![GitHub][img_github]][github]
 [![Hugo][img_hugo]][hugo]
 [![Jekyll][img_jekyll]][jekyll]
+[![Netlify][img_netlify]][netlify]
 [![Vercel][img_vercel]][vercel]
 [![VS Code][img_vs_code]][vs_code]
 [![Vim][img_vim]][vim]
