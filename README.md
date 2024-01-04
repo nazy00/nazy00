@@ -13,7 +13,11 @@ Undergrad student at [Saint Mary's University][smu].
 -   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile].<br />
 ~~Ironically, I mainly use an [M1 MacBook Air][macbook_air] running [macOS][macos] with [Yabai][yabai].~~<br />
 Currently running Fedora Asahi Remix with KDE Plasma.
--   🇵🇸 Tragic fact: Tens of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings live under an oppressive, inhumane, apartheid rule.
+<details>
+<summary><li>🇵🇸 Tragic fact</li></summary>
+<br />
+Tens of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings live under an oppressive, inhumane, apartheid rule.
+</details>
 
 ---
 
