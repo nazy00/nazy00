@@ -10,9 +10,7 @@ Undergrad student at [Saint Mary's University][smu].
 -   🧠 [Psychology][smu_psyc] minor
 -   🔭 Working on writing [a blog][cy_blog].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
--   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile].<br />
-~~Ironically, I mainly use an [M1 MacBook Air][macbook_air] running [macOS][macos] with [Yabai][yabai].~~<br />
-Currently running Fedora Asahi Remix with KDE Plasma.
+-   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile].<br />Currently using [Pop!_OS][pop_os], though.
 -   <details><summary>🇵🇸 Tragic fact</summary><br />Tens of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings, as well as those in the occupied territories live under an oppressive, inhumane, apartheid rule.</details>
 
 ---
@@ -77,6 +75,7 @@ Currently running Fedora Asahi Remix with KDE Plasma.
 [telegram]: https://t.me/cybardev "@cybardev"
 [wiki_linux]: https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia"
 [endeavour_os]: https://endeavouros.com/ "Endeavour OS"
+[pop_os]: https://pop.system76.com/ "Pop!_OS"
 [qtile]: http://qtile.org "Qtile"
 [macbook_air]: https://www.apple.com/ca/macbook-air/ "Macbook Air on apple.com"
 [macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
