@@ -7,7 +7,7 @@ Undergrad student at [Saint Mary's University][smu].
 ## About Me
 
 -   💻 [Computing Science][smu_cs] major
--   🧠 [Psychology][smu_psyc] minor
+-   🧠 [Psychology][smu_psyc] enthusiast
 -   🔭 Working on writing [a blog][cy_blog].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
 -   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile]. Currently using [Pop!_OS][pop_os], though.
