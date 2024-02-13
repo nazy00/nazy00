@@ -58,7 +58,7 @@ Undergrad student at [Saint Mary's University][smu].
     <br />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=cybardev&theme=highcontrast&hide_border=true&stroke=000&ring=ff86dd&fire=fff&currStreakLabel=fff&date_format=j%20M%5B%20Y%5D" alt="streaks">
     <br />
-    <img src="https://gitstatus.cybar.dev/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=000" alt="languages" />
+    <img src="https://gitstatus.cybar.dev/api/top-langs/?username=cybardev&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=000&hide=html,css" alt="languages" />
 </div>
 </details>
 
