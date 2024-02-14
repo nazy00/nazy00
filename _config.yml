@@ -18,6 +18,6 @@ projects:
     search: Custom Search Engine using the Usearch API
     zen.zsh: Simple and Elegant Prompt for Zsh
     xpense: Monthly Expense Calculator for Budgeting
-    dotfiles: Configuration files for my MacOS setup
+    prayers: Islamic prayer times API and example front-end consumer
     CybarPass: Random Password Generator with GUI
     blog: Full-stack accessible blog with CMS for client at Northwood
