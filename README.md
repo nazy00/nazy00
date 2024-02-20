@@ -7,7 +7,7 @@ Undergrad student at [Saint Mary's University][smu].
 ## About Me
 
 -   💻 [Computing Science][smu_cs] major
--   🧠 [Psychology][smu_psyc] enthusiast
+-   🎨 [Pixel Art][ig_profile] enthusiast
 -   🔭 Working on writing [a blog][cy_blog].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
 -   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [Endeavour OS][endeavour_os] with [Qtile][qtile]. Currently using [Pop!_OS][pop_os], though.
@@ -67,7 +67,7 @@ Undergrad student at [Saint Mary's University][smu].
 [resume]: https://resume.cybar.dev
 [smu]: https://www.smu.ca/ "SMU website"
 [smu_cs]: https://www.smu.ca/academics/computing-science-program.html "CS at SMU"
-[smu_psyc]: https://www.smu.ca/academics/psychology-program.html "Psychology at SMU"
+[ig_profile]: https://www.instagram.com/cybardev "Instagram profile @cybardev"
 [cy_blog]: https://blog.cybar.dev "cybar.dev"
 [email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
 [linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
