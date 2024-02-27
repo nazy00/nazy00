@@ -21,7 +21,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 [![Python][img_python]][python]
 [![Shell][img_shell]][zsh]
-[![Java][img_java]][java]
+[![Go][img_go]][go]
 
 ### Web Technologies
 
@@ -45,6 +45,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![VS Code][img_vs_code]][vs_code]
 [![Vim][img_vim]][vim]
 [![Clojure][img_clojure]][clojure]
+[![Java][img_java]][java]
 
 ---
 
@@ -81,6 +82,7 @@ Undergrad student at [Saint Mary's University][smu].
 [macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
 [yabai]: https://github.com/koekeishiya/yabai "yabai"
 [python]: https://www.python.org "Python"
+[go]: https://go.dev/learn "Go"
 [java]: https://www.java.com "Java"
 [clojure]: https://clojure.org/ "Clojure"
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5"
@@ -112,6 +114,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 [img_python]: https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=3670A0
 [img_java]: https://img.shields.io/badge/-Java-firebrick?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=ivory
+[img_go]: https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=black&labelColor=white
 [img_clojure]: https://img.shields.io/badge/-Clojure-91DC47?style=for-the-badge&logo=clojure&logoColor=white&labelColor=5881D8
 [img_html]: https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [img_css]: https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
