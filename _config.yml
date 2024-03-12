@@ -14,7 +14,7 @@ links:
 show_projects: true
 projects:
     resumake: Programmatic resume generator
-    yt.go: Find and watch YouTube videos from terminal without needing API keys
+    ytgo: Find and watch YouTube videos from terminal without needing API keys
     prayers: Islamic prayer times API and example front-end consumer
     CybarPass: Random Password Generator with GUI
     blog: Full-stack accessible blog with CMS for client at Northwood
