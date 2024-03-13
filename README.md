@@ -2,7 +2,7 @@
 
 Undergrad student at [Saint Mary's University][smu].
 
-> *Check out my resume by clicking [this link][resume].*
+> *Check out my resume at **[resume.cybar.dev][resume]**.*
 
 ## About Me
 
