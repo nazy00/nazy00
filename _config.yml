@@ -17,7 +17,7 @@ projects:
     ytgo: Find and watch YouTube videos from terminal without needing API keys
     prayers: Islamic prayer times API and example front-end consumer
     CybarPass: Random Password Generator with GUI
-    blog: Full-stack accessible blog with CMS for client at Northwood
+    nw-blog: Full-stack accessible blog with CMS for client at Northwood
     cutefetch: Cute little fetch script with kitties and bunnies
     zen.zsh: Simple and Elegant Prompt for Zsh
     search: Custom Search Engine using the Usearch API
