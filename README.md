@@ -31,8 +31,7 @@ Undergrad student at [Saint Mary's University][smu].
 [![TypeScript][img_ts]][ts] <br>
 [![MongoDB][img_mongodb]][mongodb]
 [![Express][img_express]][express]
-[![Alpine.js][img_alpinejs]][alpinejs]
-[![Node.js][img_nodejs]][nodejs] <br>
+[![Alpine.js][img_alpinejs]][alpinejs] <br>
 [![jQuery][img_jquery]][jquery]
 [![Bootstrap][img_bootstrap]][bootstrap]
 [![SASS][img_sass]][sass]
