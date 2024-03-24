@@ -44,7 +44,8 @@ Undergrad student at [Saint Mary's University][smu].
 [![Java][img_java]][java]
 [![Clojure][img_clojure]][clojure] <br>
 [![Hugo][img_hugo]][hugo]
-[![Jekyll][img_jekyll]][jekyll]
+[![Jekyll][img_jekyll]][jekyll] <br>
+[![Docker][img_docker]][docker]
 
 ---
 
@@ -64,7 +65,7 @@ Undergrad student at [Saint Mary's University][smu].
 
 <!-- Links -->
 
-[resume]: https://resume.cybar.dev
+[resume]: https://resume.cybar.dev "Resume - Sheikh Saad Abdullah"
 [smu]: https://www.smu.ca/ "SMU website"
 [smu_cs]: https://www.smu.ca/academics/computing-science-program.html "CS at SMU"
 [ig_profile]: https://www.instagram.com/cybardev "Instagram profile @cybardev"
@@ -103,6 +104,7 @@ Undergrad student at [Saint Mary's University][smu].
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
 [zsh]: https://www.zsh.org "Zsh"
+[docker]: https://www.docker.com "Docker"
 
 <!-- Contact -->
 
@@ -136,3 +138,4 @@ Undergrad student at [Saint Mary's University][smu].
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
 [img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
 [img_shell]: https://img.shields.io/badge/-Shell-seagreen?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=darkslategrey
+[img_docker]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
