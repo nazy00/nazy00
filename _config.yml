@@ -15,7 +15,7 @@ show_projects: true
 projects:
     resumake: Programmatic resume generator
     ytgo: Find and watch YouTube videos from terminal without needing API keys
-    prayers: Islamic prayer times API and example front-end consumer
+    dbsys-webapp: Full-stack Flask + MySQL Web App for Database Systems course
     Noctrun: 2D side-scrolling endless runner featuring the ghosts of Bengal
     nw-blog: Full-stack accessible blog with CMS for client at Northwood
     cutefetch: Cute little fetch script with kitties and bunnies
