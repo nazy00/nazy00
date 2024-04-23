@@ -2,7 +2,7 @@
 
 Undergrad student at [Saint Mary's University][smu].
 
-> *Check out my resume at **[resume.cybar.dev][resume]**.*
+> _Check out my resume at **[resume.cybar.dev][resume]**._
 
 ## About Me
 
@@ -10,7 +10,7 @@ Undergrad student at [Saint Mary's University][smu].
 -   🎨 [Digital Art][ig_profile] enthusiast
 -   🎮 Working on making [a game][noctrun].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Telegram][img_telegram]][telegram]
--   ⚡ [Pop!_OS][pop_os] is my current OS.
+-   ⚡ [Pop!\_OS][pop_os] is my current OS.
 -   <details><summary>🇵🇸 Tragic fact <i>(click to read)</i></summary><br />Tens of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings, as well as those in the occupied territories live under an oppressive, inhumane, apartheid rule. Genocide and ethnic cleansing is being done to the Palestinians right now as you're reading this. And this has been going on for 75+ years.</details>
 
 ---
@@ -53,20 +53,19 @@ Undergrad student at [Saint Mary's University][smu].
     <br />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nazy00&theme=highcontrast&hide_border=true&stroke=000&ring=ea380d&fire=fff&currStreakLabel=fff&date_format=j%20M%5B%20Y%5D" alt="streaks">
     <br />
-    <img src="https://gitstatus.cybar.dev/api/top-langs/?username=nazy00&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=000&hide=html,css" alt="languages" />
+    <img src="https://gitstatus.cybar.dev/api/top-langs/?username=nazy00&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=000&" alt="languages" />
 </div>
 </details>
 
 <!-- Links -->
 
-[resume]: ./resume.pdf "Resume - Sheikh Saad Abdullah"
+[resume]: ./resume.pdf "Resume - Naziya Tasnim"
 [smu]: https://www.smu.ca/ "SMU website"
 [smu_cs]: https://www.smu.ca/academics/computing-science-program.html "CS at SMU"
 [ig_profile]: https://www.instagram.com/hostile_user "Instagram profile @hostile_user"
 [noctrun]: https://noctrun.cybar.dev/ "Noctrun"
-[email]: mailto:naziya@cybar.dev "sheikh@cybar.dev"
-[linkedin]: https://linkedin.com/in/naziya-tasnim "Sheikh's LinkedIn"
-[discord]: https://discord.com/users/316478839146676224 "cybardev#8757"
+[email]: mailto:naziya@cybar.dev "naziya@cybar.dev"
+[linkedin]: https://linkedin.com/in/naziya-tasnim "Naziya's LinkedIn"
 [telegram]: https://t.me/unidentifiedFish "@unidentifiedFish"
 [wiki_linux]: https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia"
 [endeavour_os]: https://endeavouros.com/ "Endeavour OS"
@@ -76,9 +75,7 @@ Undergrad student at [Saint Mary's University][smu].
 [macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
 [yabai]: https://github.com/koekeishiya/yabai "yabai"
 [python]: https://www.python.org "Python"
-[go]: https://go.dev/learn "Go"
 [java]: https://www.java.com "Java"
-[clojure]: https://clojure.org/ "Clojure"
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5"
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS "CSS3"
 [js]: https://www.javascript.com "Javascript (ES6 standard)"
@@ -95,7 +92,6 @@ Undergrad student at [Saint Mary's University][smu].
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
 [bash]: https://www.gnu.org/software/bash/ "Bash"
-
 
 <!-- Contact -->
 
@@ -127,4 +123,3 @@ Undergrad student at [Saint Mary's University][smu].
 [img_vs_code]: https://img.shields.io/badge/-VS%20Code-3e3e42?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7
 [img_vim]: https://img.shields.io/badge/-Vim-11AB00?style=for-the-badge&logo=vim
 [img_shell]: https://img.shields.io/badge/-Shell-seagreen?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=darkslategrey
-[img_docker]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
