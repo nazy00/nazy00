@@ -99,7 +99,7 @@ Undergrad student at [Saint Mary's University][smu].
 [netlify]: https://www.netlify.com "Netlify"
 [github]: https://github.com "GitHub"
 [hugo]: https://gohugo.io "Hugo - static site generator"
-[jekyll]: https://gohugo.io "Jekyll - static site generator"
+[jekyll]: https://jekyllrb.com "Jekyll - static site generator"
 [aws]: https://aws.amazon.com "Amazon Web Services"
 [vs_code]: https://code.visualstudio.com/ "Visual Studio Code"
 [vim]: https://marketplace.visualstudio.com/items?itemname=vscodevim.vim "Vim Extension for VS Code"
