@@ -72,7 +72,7 @@ Undergrad student at [Saint Mary's University][smu].
 [cy_blog]: https://blog.cybar.dev "cybar.dev"
 [email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
 [linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
-[discord]: https://discord.com/users/316478839146676224 "cybardev#8757"
+[discord]: https://discord.com/users/316478839146676224 "cybardev"
 [telegram]: https://t.me/cybardev "@cybardev"
 [wiki_linux]: https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia"
 [endeavour_os]: https://endeavouros.com/ "Endeavour OS"
