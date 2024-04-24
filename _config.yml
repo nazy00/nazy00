@@ -15,4 +15,4 @@ show_projects: true
 projects:
     cybardev/dbsys-webapp: Full-stack Flask + MySQL Web App for Database Systems course
     cybardev/Noctrun: 2D side-scrolling endless runner featuring the ghosts of Bengal
-    cybardev/pictionary : Fun game for kids to learn the Mi'kmaq language
+    cybardev/pictionary: Fun game for kids to learn the Mi'kmaq language
