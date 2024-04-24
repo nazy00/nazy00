@@ -2,8 +2,8 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 
 # Site
-title: Sheikh Saad Abdullah
-description: Software Developer | interested in DevOps and Cloud | Pixel Artist
+title: Naziya Tasnim
+description: Software Developer | Digital Artist | Dreamer
 show_links: true
 links:
     linkedin: https://www.linkedin.com/in/cybardev
@@ -13,11 +13,6 @@ links:
 # Projects
 show_projects: true
 projects:
-    resumake: Programmatic resume generator
-    ytgo: Find and watch YouTube videos from terminal without needing API keys
     dbsys-webapp: Full-stack Flask + MySQL Web App for Database Systems course
     Noctrun: 2D side-scrolling endless runner featuring the ghosts of Bengal
-    nw-blog: Full-stack accessible blog with CMS for client at Northwood
-    cutefetch: Cute little fetch script with kitties and bunnies
-    zen.zsh: Simple and Elegant Prompt for Zsh
-    search: Custom Search Engine using the Usearch API
+    Pictionary: Fun game for kids to learn the Mi'kmaq language
