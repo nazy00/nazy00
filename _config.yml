@@ -16,3 +16,4 @@ projects:
     dbsys-webapp: Full-stack Flask + MySQL Web App for Database Systems course
     Noctrun: 2D side-scrolling endless runner featuring the ghosts of Bengal
     pictionary: Fun game for kids to learn the Mi'kmaq language
+    nw-blog: Accessible Blog for Northwood client
