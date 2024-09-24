@@ -1,7 +1,5 @@
 ### 🍓 Hi, I'm Naziya! 🍓
 
-Undergrad student at [Saint Mary's University][smu].
-
 > _**[Click here to check out my resume][resume]**_
 
 ## About Me
