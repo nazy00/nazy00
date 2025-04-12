@@ -8,7 +8,7 @@
 -   🎨 [Digital Art][ig_profile] enthusiast
 -   🎮 Working on making [a game][noctrun].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin]
--   ⚡ [Pop!\_OS][pop_os] is my current OS.
+-   ⚡ [NixOS][nix_os] is my current OS.
 -   <details><summary>🇵🇸 Tragic fact <i>(click to read)</i></summary><br />Tens of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings, as well as those in the occupied territories live under an oppressive, inhumane, apartheid rule. Genocide and ethnic cleansing is being done to the Palestinians right now as you're reading this. And this has been going on for 75+ years.</details>
 
 ---
@@ -65,7 +65,7 @@
 [email]: mailto:naziya@cybar.dev "naziya@cybar.dev"
 [linkedin]: https://linkedin.com/in/naziya-tasnim "Naziya's LinkedIn"
 [wiki_linux]: https://en.wikipedia.org/wiki/Linux/ "Linux on Wikipedia"
-[pop_os]: https://pop.system76.com/ "Pop!_OS"
+[nix_os]: https://nixos.org/ "NixOS"
 [python]: https://www.python.org "Python"
 [java]: https://www.java.com "Java"
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML "HTML5"
